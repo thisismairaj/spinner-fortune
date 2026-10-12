@@ -1,0 +1,46 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="628" fill="url(#bg)"/>
+
+  <text x="80" y="76" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#2ea043">OPEN SOURCE &#183; CLAUDE CODE MOD</text>
+
+  <rect x="80" y="104" width="1040" height="130" rx="10" fill="#1c2128" stroke="#30363d"/>
+  <circle cx="104" cy="126" r="6" fill="#ff5f56"/>
+  <circle cx="124" cy="126" r="6" fill="#ffbd2e"/>
+  <circle cx="144" cy="126" r="6" fill="#27c93f"/>
+
+  <text x="104" y="172" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#8b949e">$ /plugin install spinner-fortune</text>
+
+  <g transform="translate(104,198)" stroke="#8b949e" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="7" y1="0" x2="7" y2="4"/>
+    <line x1="14" y1="7" x2="10" y2="7"/>
+    <line x1="7" y1="14" x2="7" y2="10"/>
+    <line x1="0" y1="7" x2="4" y2="7"/>
+  </g>
+  <text x="124" y="206" font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#e3b341">Cache invalidation, naming, off-by-one</text>
+  <text x="540" y="206" font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#484f58">(12s, 300 tokens)</text>
+
+  <text x="600" y="320" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#f0f6fc" text-anchor="middle">a fresh fortune, every</text>
+  <text x="600" y="366" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#f0f6fc" text-anchor="middle">time the spinner spins.</text>
+  <text x="600" y="404" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#6e7681" text-anchor="middle">18 hand-written lines, one picked per session</text>
+
+  <g transform="translate(600,470)" stroke="#2ea043" stroke-width="2.3" fill="none" stroke-linecap="round">
+    <line x1="0" y1="-14" x2="0" y2="-8"/>
+    <line x1="9.9" y1="-9.9" x2="5.7" y2="-5.7"/>
+    <line x1="14" y1="0" x2="8" y2="0"/>
+    <line x1="9.9" y1="9.9" x2="5.7" y2="5.7"/>
+    <line x1="0" y1="14" x2="0" y2="8"/>
+    <line x1="-9.9" y1="9.9" x2="-5.7" y2="5.7"/>
+    <line x1="-14" y1="0" x2="-8" y2="0"/>
+    <line x1="-9.9" y1="-9.9" x2="-5.7" y2="-5.7"/>
+  </g>
+
+  <text x="600" y="520" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc" text-anchor="middle">spinner-fortune</text>
+  <text x="600" y="546" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#6e7681" text-anchor="middle">github.com/thisismairaj/spinner-fortune</text>
+</svg>
