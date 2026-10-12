@@ -34,6 +34,11 @@ export const register: Register = on => {
   })
 
   on('ui.render', { component: 'Spinner' }, async ($, e, next) => {
+    // `message` is non-null when another plugin already overrode the
+    // spinner word (e.g. ayat-of-the-day) - defer to it rather than stomp
+    // on it, since whoever runs closer to core wins otherwise.
+    if (e.props.message !== null) return next(e)
+
     const { value } = await read($, fortuneIndex)
     if (value === null || value === undefined) return next(e)
 
