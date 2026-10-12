@@ -1,0 +1,10 @@
+{
+  "name": "spinner-fortune",
+  "description": "Replaces the spinner word with a programmer fortune, one picked fresh each session.",
+  "owner": { "name": "thisismairaj", "url": "https://github.com/thisismairaj" },
+  "plugins": [{
+    "name": "spinner-fortune",
+    "source": "./",
+    "description": "Replaces the spinner word with a programmer fortune, one picked fresh each session."
+  }]
+}

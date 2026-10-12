@@ -1,0 +1,11 @@
+{
+  "name": "spinner-fortune",
+  "version": "0.1.0",
+  "description": "Replaces the spinner word with a programmer fortune, one picked fresh each session.",
+  "author": {
+    "name": "thisismairaj",
+    "url": "https://github.com/thisismairaj"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
