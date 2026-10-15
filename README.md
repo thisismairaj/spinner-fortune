@@ -7,6 +7,14 @@
 
 ---
 
+## Why this matters
+
+**A session that takes 12 seconds to think still makes you look at the screen for 12 seconds.** The default spinner word is pure filler, "Sauteing...", "Proofing...", words that tell you nothing and reward nothing. They're not information, just something to stare at while you wait.
+
+This swaps that filler for something worth reading: one real programmer fortune, picked fresh each session and held steady for the whole thing so it doesn't flicker and distract on every turn. It doesn't make Claude Code faster and it doesn't save you any real time.
+
+**One honest limit:** this is cosmetic, full stop. It's attention well spent instead of attention wasted during a wait you were having anyway, not a productivity feature, so don't install it expecting anything functional.
+
 ## What it does
 
 Claude Code shows a spinner word while it's thinking - "Sauteing...",
